@@ -1,0 +1,15 @@
+{
+  "name": "gama-consumo-api-1",
+  "version": "1.0.0",
+  "description": "Exemplo de Integração com node-fetch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "integração",
+    "node-fetch-cielo"
+  ],
+  "author": "Mabelly Rocha",
+  "license": "ISC"
+}
